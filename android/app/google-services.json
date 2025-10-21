@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "484941955569",
+    "project_id": "usap-pinoy",
+    "storage_bucket": "usap-pinoy.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484941955569:android:07cda4b24be584516cc450",
+        "android_client_info": {
+          "package_name": "com.example.usap_pinoy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "484941955569-rmntdqojfkc6pq2lj5haaaq7v0l6itt2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUCm5llOj1RhP4ilTQ7Um4ARiffsA2tJs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "484941955569-rmntdqojfkc6pq2lj5haaaq7v0l6itt2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
